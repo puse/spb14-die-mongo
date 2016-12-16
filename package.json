@@ -1,0 +1,22 @@
+{
+  "name": "spb14-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Che Oshn",
+  "license": "MIT",
+  "repository": "spb14/mongo",
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "mongo": "^0.1.0"
+  },
+  "dependencies": {
+    "spb14-die": "^1.0.0"
+  }
+}
